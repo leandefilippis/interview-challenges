@@ -35,6 +35,46 @@ const Feriados = [
     fecha: new Date("2023-06-20"),
     nombre: "Día de la Bandera"
   },
+  {
+    fecha: new Date("2023-06-20"),
+    nombre: "Día de la Bandera"
+  },
+  {
+    fecha: new Date("2023-06-20"),
+    nombre: "Día de la Bandera"
+  },
+  {
+    fecha: new Date("2023-06-20"),
+    nombre: "Día de la Bandera"
+  },
+  {
+    fecha: new Date("2023-06-20"),
+    nombre: "Día de la Bandera"
+  },
+  {
+    fecha: new Date("2023-06-20"),
+    nombre: "Día de la Bandera"
+  },
+  {
+    fecha: new Date("2023-07-09"),
+    nombre: "Día de la Independencia"
+  },
+  {
+    fecha: new Date("2023-08-21"),
+    nombre: "Día del Paso a la Inmortalidad del General José de San Martín"
+  },
+  {
+    fecha: new Date("2023-10-09"),
+    nombre: "Día del Respeto a la Diversidad Cultural"
+  },
+  {
+    fecha: new Date("2023-12-08"),
+    nombre: "Día de la Inmaculada Concepción"
+  },
+  {
+    fecha: new Date("2023-12-25"),
+    nombre: "Navidad"
+  }
 ]
 
 const Hoy = new Date()
